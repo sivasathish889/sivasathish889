@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studying on Anna University<br>💻 I'm Python & MERN Full Stack Developer<br>👯 I’m looking to collaborate on web development<br><br>🌱 I’m currently learning DSA<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently Studying on Anna University<br>💻 I'm Python & MERN Full Stack Developer<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning DSA<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
